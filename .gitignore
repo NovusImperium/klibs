@@ -1,0 +1,7 @@
+*.txt
+.idea/
+*.sw[op]
+*.o
+*.bin
+*.out
+test_*
